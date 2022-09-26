@@ -15,7 +15,8 @@ My Skills
 - 
 - 
 
-<img src="![CANVAlogo](https://github.com/Jafeibso/Jafeibso/blob/main/can.png?raw=true)" width="200" height="100">
+![CANVAlogo](https://github.com/Jafeibso/Jafeibso/blob/main/can.png?raw=true)
+<img src="https://github.com/Jafeibso/Jafeibso/blob/main/can.png?raw=true" width="200" height="100">
 Find me:
 
 <!--
