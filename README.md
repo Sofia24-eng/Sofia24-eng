@@ -12,14 +12,14 @@
 
 ---
 
-My Skills
+### My Skills
 - Native language: spanish
 - English level: B1
 - Learning Python
 - Experience in Office, Canva, JavaScript
 
 <p align="center">
-  <img src="https://github.com/Natpachecogomez/Natpachecogomez/blob/main/pyt.png?raw=true" width="100" height="100">
+  <img src="https://github.com/Natpachecogomez/Natpachecogomez/blob/main/pyt.png?raw=true" width="90" height="90">
 </p>
 <p align="center">
   <img src="https://github.com/Natpachecogomez/Natpachecogomez/blob/main/Office.png?raw=true" width="100" height="100">
@@ -31,7 +31,7 @@ My Skills
   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FJavaScript&psig=AOvVaw0-wKTowEce1VxLGrjqTQyW&ust=1664316965714000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMCiiNO9s_oCFQAAAAAdAAAAABAD" width="100" height="100">
 </p>
 
-Find me:
+### Find me:
 
 <!--
 **Sofia24-eng/Sofia24-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
