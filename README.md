@@ -14,8 +14,8 @@ My Skills
 - Learning Python
 - 
 - 
-https://github.com/Jafeibso/Jafeibso/blob/main/can.png?raw=true
 
+<img src="![CANVAlogo](https://github.com/Jafeibso/Jafeibso/blob/main/can.png?raw=true)" width="200" height="100">
 Find me:
 
 <!--
