@@ -28,7 +28,7 @@
   <img src="https://github.com/Jafeibso/Jafeibso/blob/main/can.png?raw=true" width="100" height="100">
 </p>
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FJavaScript&psig=AOvVaw0-wKTowEce1VxLGrjqTQyW&ust=1664316965714000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMCiiNO9s_oCFQAAAAAdAAAAABAD" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="100" height="100">
 </p>
 
 ### Find me:
