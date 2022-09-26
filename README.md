@@ -23,13 +23,13 @@
 
 <p align="center">
   <img src="https://github.com/Natpachecogomez/Natpachecogomez/blob/main/Office.png?raw=true" width="100" height="100">
-</p>
+
 <p align="center">
   <img src="https://github.com/Jafeibso/Jafeibso/blob/main/can.png?raw=true" width="100" height="100">
-</p>
+
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="90" height="90">
-</p>
+
 
 ---
 
