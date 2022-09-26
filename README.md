@@ -2,10 +2,7 @@
   <img src="https://user-images.githubusercontent.com/114430959/192381086-d1f91020-0ce0-4125-9386-c065a1aaa595.gif" width="350" height="200">
 </p>
 
-	<p class="text-left">Texto alineado a la izquierda.</p>
-	<p class="text-center">Texto centrado</p>
-	<p class="text-right">Texto alineado a la derecha.</p>
-# Hi there👋
+		# Hi there👋
 <p align="center"> 
   
 
