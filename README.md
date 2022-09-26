@@ -4,7 +4,7 @@
 
 --- 
 
-##I´m Sofia Aguirre a Systems engineer student on the EAN university✨
+## I´m Sofia Aguirre a Systems engineer student on the EAN university✨
 
 
 <!--
