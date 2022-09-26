@@ -8,6 +8,16 @@
 
 ---
 
+My Skills
+- Native language: spanish
+- English level: B1
+- Learning Python
+- 
+- 
+https://github.com/Jafeibso/Jafeibso/blob/main/can.png?raw=true
+
+Find me:
+
 <!--
 **Sofia24-eng/Sofia24-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
