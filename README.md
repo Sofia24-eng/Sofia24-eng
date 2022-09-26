@@ -1,8 +1,10 @@
 ![WelcomeGifGIF](https://user-images.githubusercontent.com/114430959/192381086-d1f91020-0ce0-4125-9386-c065a1aaa595.gif)
 
-### **Hi there---** 👋
-I´m Sofia Aguirre a Systems engineer student on the EAN >university😁
+### **Hi there** 👋
+I´m Sofia Aguirre a Systems engineer student on the EAN university😁
 
+> blockquote
+h---
 
 <!--
 **Sofia24-eng/Sofia24-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
