@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#Sofia Aguirre
+###Sofia Aguirre
 Estudiante De Ingenieria De Sistemas - Universidad EAN ✨
