@@ -1,4 +1,5 @@
-### ==Hi there== 👋
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fes%2Fver%2Fwelcome-gif-22708912&psig=AOvVaw1NPlO1niNyvfCZpVuNNcSw&ust=1664312081742000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLjNsLurs_oCFQAAAAAdAAAAABAM)
+### Hi there 👋
 
 <!--
 **Sofia24-eng/Sofia24-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +18,4 @@ Here are some ideas to get you started:
 **Sofia Aguirre**
 
 Estudiante De Ingenieria De Sistemas - Universidad EAN ✨
+
