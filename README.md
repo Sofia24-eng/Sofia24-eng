@@ -25,7 +25,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_(2019%E2%80%93present).svg/2048px-Microsoft_Office_logo_(2019%E2%80%93present).svg.png" width="100" height="100">
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/114430959/192391628-80695f92-2947-4fcd-870e-57dcbef82cd9.png"
+  <img src="https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2019/10/canva-logo-1.png"
 " width="100" height="100">
 
 <p align="center">
