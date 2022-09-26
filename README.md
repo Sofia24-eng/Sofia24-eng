@@ -25,7 +25,7 @@
 ---
 
 ### Find me:
-
+sofiaa1224.2@gmail.com
 <!--
 **Sofia24-eng/Sofia24-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
