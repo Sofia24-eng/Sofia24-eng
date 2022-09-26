@@ -20,7 +20,8 @@
 
 <p align="center">
   <img src="https://github.com/Natpachecogomez/Natpachecogomez/blob/main/pyt.png?raw=true" width="90" height="90">
-</p> <p align="center">
+
+<p align="center">
   <img src="https://github.com/Natpachecogomez/Natpachecogomez/blob/main/Office.png?raw=true" width="100" height="100">
 </p>
 <p align="center">
