@@ -1,6 +1,6 @@
 ![WelcomeGifGIF](https://user-images.githubusercontent.com/114430959/192381086-d1f91020-0ce0-4125-9386-c065a1aaa595.gif)
 
-# Hi there👋
+<p align="center"> # Hi there👋
 
 --- 
 
